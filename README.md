@@ -26,7 +26,7 @@ A responsive web application that allows users to discover the **location**, **t
 ---
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/facee761-436e-4e16-aedf-4a29f5d474cc)
+![image](https://github.com/user-attachments/assets/e2403ac8-c499-44ea-be49-9405019baeba)
 
 ---
 
